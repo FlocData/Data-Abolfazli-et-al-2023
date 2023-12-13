@@ -6,6 +6,10 @@ This repository holds data associated with the paper by Abolfazli et al. on *Flo
 
 The repository contains data and Jupyter notebook to explore the data and reproduce the plots presented in the paper.
 
+## Notebooks
+
+The notebooks for exploring the data and generating the plots found in the paper are numbered 1 through 4. Notebooks 1 and 2 are for exploring and visualizing the data and notebooks 3 and 4 generate the specific plots found in the paper.
+
 ## Data
 
 The data is grouped into the following three folders:
