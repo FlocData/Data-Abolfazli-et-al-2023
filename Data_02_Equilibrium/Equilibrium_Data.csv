@@ -1,0 +1,59 @@
+Exp_num,Date,Season,Sample_Location,Tank,G_eq_Hz,Background_S_ppt,GoM_water_present,S_eq_ppt,Salt_added,d50_eq_um,C_init_NTU,C_end_NTU,C_eq_avg_NTU,C_eq_avg_mgL,C_eq_low_minus_mgL,C_eq_high_plus_mgL,C_int/C_end,Time_at_G_min,DC/Dt_NTU_min,Trust_factor,Notes
+Exp01,6/26/20,Summer,South Pass 10,1,95,2.2,1,2.2,None,90.0,9.6,9.6,9.6,-8.180439999999997,0.0,0.0,1.0,60,0.0,0.5,Hard to say there was equilibrium
+Exp02,6/27/20,Summer,South Pass 05,1,95,0.0,0,0.0,None,56.0,22.6,22.6,22.6,26.70636000000001,0.0,0.0,1.0,60,0.0,0.5,Equilibrium on breakup 
+Exp02,6/27/20,Summer,South Pass 05,1,50,0.0,0,5.0,TS,68.0,22.6,22.6,22.6,26.70636000000001,0.0,0.0,1.0,110,0.0,0.5,Last segment
+Exp03,6/28/20,Summer,GoM,1,95,14.6,1,14.6,None,82.0,18.0,18.0,18.0,14.361800000000002,0.0,0.0,1.0,60,0.0,1.0,"Nice data, values from growth match those from breakup"
+Exp03,6/28/20,Summer,GoM,1,50,14.6,1,14.6,None,127.0,18.0,18.0,18.0,14.361800000000002,0.0,0.0,1.0,60,0.0,1.0,"Nice data, values from growth match those from breakup"
+Exp03,6/28/20,Summer,GoM,1,20,14.6,1,14.6,None,140.0,18.0,4.0,11.0,-4.423399999999994,18.785200000000003,18.785199999999996,0.2222222222222222,60,-0.23333333333333334,1.0,"Nice data, values from growth match those from breakup, settling"
+Exp04,6/29/20,Summer,Venice Main Channel,1,95,0.0,0,15.0,TS,46.0,32.0,32.0,32.0,51.93220000000001,0.0,0.0,1.0,60,0.0,0.0,Very inconsistent response to changes in G
+Exp05,6/30/20,Summer,Baptiste Collette,1,20,0.0,0,0.0,None,80.0,24.0,16.0,20.0,19.729000000000006,10.7344,10.7344,0.6666666666666666,416,-0.019230769230769232,1.0,"Equilibrium on last segment, settling"
+Exp05,6/30/20,Summer,Baptiste Collette,1,95,0.0,0,0.0,None,50.0,37.0,37.0,37.0,65.35020000000002,0.0,0.0,1.0,60,0.0,1.0,Equilibrium on breakup 
+Exp06,7/2/20,Summer,Bonnet Carre Spillway,1,50,0.0,0,0.0,None,64.0,26.0,26.0,26.0,35.830600000000004,0.0,0.0,1.0,60,0.0,1.0,"Strong growth at G = 20, larger sizes on breakup cycle than growth (growth not to equilibrium?)"
+Exp06,7/2/20,Summer,Bonnet Carre Spillway,1,95,0.0,0,0.0,None,55.0,27.0,27.0,27.0,38.5142,0.0,0.0,1.0,60,0.0,1.0,"Strong growth at G = 20, larger sizes on breakup cycle than growth (growth not to equilibrium?)"
+Exp07,6/25/20,Summer,South Pass 05,2,70,0.0,0,1.9,TS,56.0,19.6,19.6,19.6,18.65556000000001,0.0,0.0,1.0,60,0.0,0.5,"No growth phase, no change with added salt"
+Exp07,6/25/20,Summer,South Pass 05,2,70,0.0,0,4.7,TS,46.0,19.6,19.6,19.6,18.65556000000001,0.0,0.0,1.0,60,0.0,0.5,"No growth phase, no change with added salt"
+Exp07,6/25/20,Summer,South Pass 05,2,70,0.0,0,6.8,TS,51.0,19.6,19.6,19.6,18.65556000000001,0.0,0.0,1.0,60,0.0,0.5,"No growth phase, no change with added salt"
+Exp07,6/25/20,Summer,South Pass 05,2,70,0.0,0,9.5,TS,51.0,19.6,19.6,19.6,18.65556000000001,0.0,0.0,1.0,60,0.0,0.5,"No growth phase, no change with added salt"
+Exp07,6/25/20,Summer,South Pass 05,2,70,0.0,0,13.8,TS,50.0,19.6,19.6,19.6,18.65556000000001,0.0,0.0,1.0,60,0.0,0.5,"No growth phase, no change with added salt"
+Exp07,6/25/20,Summer,South Pass 05,2,70,0.0,0,30.0,TS,48.0,19.6,19.6,19.6,18.65556000000001,0.0,0.0,1.0,260,0.0,0.5,"No growth phase, no change with added salt"
+Exp08,6/26/20,Summer,South Pass 10,2,70,2.2,1,9.4,TS,98.0,,,,,,,,60,,0.5,Took a long time to hit equilibrium - salt doesn't matter
+Exp08,6/26/20,Summer,South Pass 10,2,70,2.2,1,15.3,TS,100.0,,,,,,,,60,,0.5,Possible that we are still on the way to equilibrium
+Exp08,6/26/20,Summer,South Pass 10,2,70,2.2,1,24.0,TS,110.0,,,,,,,,200,,1.0,Should be at equilibrium
+Exp09,6/27/20,Summer,South Pass 05,2,70,0.0,0,9.3,TS,85.0,19.0,19.0,19.0,17.045400000000008,0.0,0.0,1.0,60,0.0,1.0,"Salt doesn't matter, growth and then constant to decay slightly"
+Exp09,6/27/20,Summer,South Pass 05,2,70,0.0,0,13.5,TS,78.0,19.0,19.0,19.0,17.045400000000008,0.0,0.0,1.0,400,0.0,1.0,"Salt doesn't matter, growth and then constant to decay slightly"
+Exp10,6/29/20,Summer,South Pass 05,2,50,0.0,1,1.2,GoM,72.0,15.0,15.0,15.0,6.311000000000007,0.0,0.0,1.0,450,0.0,1.0,"Salt doesn't matter, growth and then constant"
+Exp10,6/29/20,Summer,South Pass 05,2,50,0.0,1,1.9,GoM,78.0,15.0,15.0,15.0,6.311000000000007,0.0,0.0,1.0,250,0.0,1.0,"salt doesn't matter, growth and then constant"
+Exp11,6/30/20,Summer,Venice Main Channel,2,50,0.0,0,0.0,None,47.0,30.0,26.0,28.0,41.197800000000015,5.367200000000011,5.367199999999997,0.8666666666666667,270,-0.014814814814814815,1.0,"salt doesn't matter, growth and then constant to decay slightly"
+Exp11,6/30/20,Summer,Venice Main Channel,2,50,0.0,0,13.4,TS,47.0,30.0,26.0,28.0,41.197800000000015,5.367200000000011,5.367199999999997,0.8666666666666667,270,-0.014814814814814815,1.0,"salt doesn't matter, growth and then constant to decay slightly"
+Exp12,7/2/20,Summer,Bonnet Carre Spillway,2,70,0.0,0,0.0,None,51.0,48.0,45.0,46.5,90.84440000000001,4.0253999999999905,4.025400000000005,0.9375,60,-0.05,1.0,"Salt doesn't matter, growth and then constant to decay slightly with slight growth at S = 13"
+Exp12,7/2/20,Summer,Bonnet Carre Spillway,2,70,0.0,0,2.2,TS,51.0,45.0,43.0,44.0,84.13540000000002,2.6836000000000126,2.6835999999999984,0.9555555555555556,60,-0.03333333333333333,1.0,"Salt doesn't matter, growth and then constant to decay slightly with slight growth at S = 14"
+Exp12,7/2/20,Summer,Bonnet Carre Spillway,2,70,0.0,0,7.2,TS,49.0,42.0,42.0,42.0,78.76820000000001,0.0,0.0,1.0,60,0.0,1.0,"Salt doesn't matter, growth and then constant to decay slightly with slight growth at S = 15"
+Exp12,7/2/20,Summer,Bonnet Carre Spillway,2,70,0.0,0,9.4,TS,49.0,42.0,42.0,42.0,78.76820000000001,0.0,0.0,1.0,60,0.0,1.0,"Salt doesn't matter, growth and then constant to decay slightly with slight growth at S = 16"
+Exp13,1/8/21,Winter,Venice Main Channel,1,20,0.0,0,0.0,None,110.0,33.0,19.0,26.0,35.830600000000004,18.785199999999996,18.785200000000003,0.5757575757575758,600,-0.023333333333333334,1.0,"Very nice data, no equilibrium for G = 70 and 50"
+Exp13,1/8/21,Winter,Venice Main Channel,1,95,0.0,0,0.0,None,60.0,31.0,31.0,31.0,49.24860000000001,0.0,0.0,1.0,120,0.0,1.0,"Very nice data, no equilibrium for G = 70 and 51"
+Exp14,1/9/21,Winter,Venice Main Channel,1,50,0.0,0,0.0,None,85.0,34.0,31.0,32.5,53.274000000000015,4.025400000000005,4.0253999999999905,0.9117647058823529,600,-0.005,1.0,Nice equilibrium growth
+Exp14,1/9/21,Winter,Venice Main Channel,1,95,0.0,0,1.0,ASTM,55.0,33.0,33.0,33.0,54.61580000000001,0.0,0.0,1.0,120,0.0,1.0,End of breakup
+Exp14,1/9/21,Winter,Venice Main Channel,1,20,0.0,0,1.0,ASTM,97.0,31.0,20.0,25.5,34.48880000000001,14.759800000000006,14.759799999999998,0.6451612903225806,195,-0.05641025641025641,0.5,"Strong growth and then flat, but there is settling"
+Exp15,1/10/21,Winter,Venice Main Channel,1,20,0.0,0,5.0,ASTM,101.0,50.0,28.0,39.0,70.71740000000001,29.519599999999997,29.519599999999997,0.56,600,-0.03666666666666667,1.0,Nice equilibrium growth
+Exp15,1/10/21,Winter,Venice Main Channel,1,95,0.0,0,5.0,ASTM,60.0,55.0,55.0,55.0,113.65500000000002,0.0,0.0,1.0,120,0.0,1.0,End of breakup
+Exp16,1/11/21,Winter,Venice Main Channel,1,95,0.0,0,10.0,ASTM,60.0,95.0,88.0,91.5,211.6064,9.392599999999959,9.392600000000016,0.9263157894736842,120,-0.058333333333333334,1.0,"No equilibrium in first 60 hours at  5ppt, equilibrium at end of breakup at 10 ppt"
+Exp16,1/11/21,Winter,Venice Main Channel,1,20,0.0,0,10.0,ASTM,95.0,82.0,55.0,68.5,149.8836,36.228599999999986,36.22860000000003,0.6707317073170732,120,-0.225,0.5,"Rapid growth at G = 20, strong settling, sometime like equilibrium"
+Exp16,1/11/21,Winter,Venice Main Channel,1,50,0.0,0,10.0,ASTM,70.0,72.0,72.0,72.0,159.27620000000002,0.0,0.0,1.0,40,0.0,0.5,End of breakup at 50 (from 20) is just a little larger than growth at 50 (from 70)
+Exp17,1/13/21,Winter,GoM,1,20,13.3,1,13.3,None,113.0,38.0,22.0,30.0,46.56500000000001,21.4688,21.4688,0.5789473684210527,196,-0.08163265306122448,1.0,Really nice equilibrium data - growth
+Exp17,1/13/21,Winter,GoM,1,50,13.3,1,13.3,None,76.0,33.0,33.0,33.0,54.61580000000001,0.0,0.0,1.0,105,0.0,1.0,Really nice equilibrium data - breakup
+Exp18,1/14/21,Winter,GoM,1,95,11.7,1,11.7,None,58.0,30.0,30.0,30.0,46.56500000000001,0.0,0.0,1.0,96,0.0,1.0,"No growth phase, consistent sizes across G = 95, 70, slow growth at 50"
+Exp18,1/14/21,Winter,GoM,1,20,11.7,1,11.7,None,115.0,28.0,23.0,25.5,34.48880000000001,6.709000000000003,6.709000000000003,0.8214285714285714,78,-0.0641025641025641,1.0,rapid growth during G = 20 with some settling
+Exp19,1/8/21,Winter,Venice Main Channel,2,70,0.0,0,0.0,None,49.0,37.0,32.0,34.5,58.64120000000001,6.709000000000003,6.709000000000003,0.8648648648648649,600,-0.008333333333333333,0.5,"Growth and gradual decay over limited range of sizes, salt has no effect"
+Exp19,1/8/21,Winter,Venice Main Channel,2,70,0.0,0,1.0,ASTM,48.0,31.0,31.0,31.0,49.24860000000001,0.0,0.0,1.0,120,0.0,0.5,"Part of continual decay, but very low decay rate"
+Exp19,1/8/21,Winter,Venice Main Channel,2,70,0.0,0,2.5,ASTM,47.5,31.0,31.0,31.0,49.24860000000001,0.0,0.0,1.0,120,0.0,0.5,"Part of continual decay, but very low decay rate"
+Exp19,1/8/21,Winter,Venice Main Channel,2,70,0.0,0,5.0,ASTM,47.0,31.0,31.0,31.0,49.24860000000001,0.0,0.0,1.0,120,0.0,0.5,"Part of continual decay, but very low decay rate"
+Exp19,1/8/21,Winter,Venice Main Channel,2,70,0.0,0,10.0,ASTM,50.5,31.0,28.0,29.5,45.223200000000006,4.0253999999999905,4.025400000000005,0.9032258064516129,120,-0.025,0.5,Slight step increase in size
+Exp20,1/9/21,Winter,Venice Main Channel,2,95,0.0,0,0.0,None,61.0,41.0,39.0,40.0,73.40100000000001,2.6835999999999984,2.6835999999999984,0.9512195121951219,600,-0.0033333333333333335,1.0,"Nice growth to constant state, shows salt has no effect "
+Exp20,1/9/21,Winter,Venice Main Channel,2,95,0.0,0,1.0,ASTM,61.0,39.0,39.0,39.0,70.71740000000001,0.0,0.0,1.0,120,0.0,1.0,"Nice growth to constant state, shows salt has no effect "
+Exp20,1/9/21,Winter,Venice Main Channel,2,95,0.0,0,2.5,ASTM,61.0,39.0,39.0,39.0,70.71740000000001,0.0,0.0,1.0,120,0.0,1.0,"Nice growth to constant state, shows salt has no effect "
+Exp20,1/9/21,Winter,Venice Main Channel,2,95,0.0,0,5.0,ASTM,61.0,40.0,40.0,40.0,73.40100000000001,0.0,0.0,1.0,120,0.0,1.0,"Nice growth to constant state, shows salt has no effect "
+Exp20,1/9/21,Winter,Venice Main Channel,2,95,0.0,0,5.0,ASTM,62.0,40.0,40.0,40.0,73.40100000000001,0.0,0.0,1.0,120,0.0,1.0,"Nice growth to constant state, shows salt has no effect "
+Exp21,1/10/21,Winter,Venice Main Channel,2,70,0.0,0,5.0,ASTM,49.0,52.0,44.0,48.0,94.86980000000001,10.734399999999994,10.734399999999994,0.8461538461538461,600,-0.013333333333333334,0.5,Data is kind of wierd.. no growth
+Exp22,1/11/21,Winter,Venice Main Channel,2,95,0.0,0,5.0,ASTM,59.0,84.0,76.0,80.0,180.745,10.734399999999994,10.734399999999994,0.9047619047619048,1000,-0.008,1.0,Data is okay... no growth
+Exp23,1/13/21,Winter,GoM,2,70,11.4,1,11.4,None,68.0,42.0,41.0,41.5,77.42640000000002,1.3418000000000063,1.341799999999992,0.9761904761904762,200,-0.005,1.0,Data is okay... no growth
+Exp24,1/14/21,Winter,Bonnet Carre Spillway,2,70,0.0,0,0.0,None,59.0,52.0,49.0,50.5,101.57880000000002,4.0253999999999905,4.0253999999999905,0.9423076923076923,250,-0.012,1.0,Data is okay... no growth
