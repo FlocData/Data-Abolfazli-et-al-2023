@@ -2,6 +2,8 @@
 
 ## Overview
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10371783.svg)](https://doi.org/10.5281/zenodo.10371783)
+
 This repository holds data associated with the paper by Abolfazli et al. on *Flocculation Characteristics of Suspended Mississippi River Mud Under Variable Turbulence, Water and Salt Sources, and Salinity: A Laboratory Study* currently in review at *Frontiers in Earth Science*.
 
 The repository contains data and Jupyter notebooks to explore the data and reproduce the plots presented in the paper.
