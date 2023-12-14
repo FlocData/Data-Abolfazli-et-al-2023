@@ -4,21 +4,22 @@
 
 This repository holds data associated with the paper by Abolfazli et al. on *Flocculation Characteristics of Suspended Mississippi River Mud Under Variable Turbulence, Water and Salt Sources, and Salinity: A Laboratory Study* currently in review at *Frontiers in Earth Science*.
 
-The repository contains data and Jupyter notebook to explore the data and reproduce the plots presented in the paper.
+The repository contains data and Jupyter notebooks to explore the data and reproduce the plots presented in the paper.
 
 ## Notebooks
 
-The notebooks for exploring the data and generating the plots found in the paper are numbered 1 through 4. Notebooks 1 and 2 are for exploring and visualizing the data and notebooks 3 and 4 generate the specific plots found in the paper.
+The notebooks for exploring the data and generating the plots found in the paper are numbered 1 through 4. Notebooks 1 and 2 are for exploring and visualizing the data and notebooks 3 and 4 generate the specific plots found in the paper. Notebook 5 works with the supplementary data and figures.
 
 ## Data
 
-The data is grouped into the following three folders:
+The data is grouped into the following four folders:
 1. *Data_01_Time_Series:* contains time series data for turbulent shear rate, salinity, concentration, and suspended particle size distribution statistics grouped by experiment number. The Jupyter notebook ```1_Data_TimeSeries_Explore.ipynb``` can be used to explore the data found in this folder.
 2. *Data_02_Equilibrium:* Data contained in this folder pertains to individual size measurements and size statistics at equilibrium. The data can be explored with the notebook ```2_Data_Equilibrium_Explore.ipynb```
-	- ```Equilibrium_Data.csv``` contains the tabulated equilibrium data extracted from the time series and used in many of the scatter plots in the paper.
-	- ```d_mu_ASTM_seasalt.csv``` and ```d_mu_GoM_water.csv``` contain particle size distributions for individual minutes in the time series that were used produce the particle size distribution plots of floc sizes with ASTM sea salt and Gulf of Mexico water.
-	- ```MS_insitu_withG.csv``` provides tabulated in situ data from Osborn et al. (2023).
+  - ```Equilibrium_Data.csv``` contains the tabulated equilibrium data extracted from the time series and used in many of the scatter plots in the paper.
+  - ```d_mu_ASTM_seasalt.csv``` and ```d_mu_GoM_water.csv``` contain particle size distributions for individual minutes in the time series that were used produce the particle size distribution plots of floc sizes with ASTM sea salt and Gulf of Mexico water.
+  - ```MS_insitu_withG.csv``` provides tabulated in situ data from Osborn et al. (2023).
 3. *Data_03_NTU_SSC:* Contains average OBS recorded NTU values and corresponding suspended solids concentration measurements obtained through filtration, drying, and weighing.
+4. *Data_04_Supplementary*: contains the time series data associated with the supplementary experiments. The data can be accessed through the notebook ```5_Paper_Supplementary_Figures_Timeseires.ipynb```. The notebook will also produce the figures used in the paper.
 
 ## Figures 
 
